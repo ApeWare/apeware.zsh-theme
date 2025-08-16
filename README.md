@@ -1,5 +1,5 @@
 # apeware.zsh-theme
-Combines the best of Bira and Steve Losh's extravagant theme
+Combines the best of Bira and [Steve Losh's extravagant theme](https://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/)
 
 ![screenshot](theme_preview.png)
 
